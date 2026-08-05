@@ -131,7 +131,6 @@ Customer drop-offs increase progressively as users advance through the purchasin
 ## Conclusion
 
 This project analysed the performance of an e-commerce purchasing funnel by evaluating user progression from the Home page to Checkout. The analysis revealed an overall funnel conversion rate of 17.40%, with customer sessions declining steadily at each stage. While conversion performance was broadly consistent across user types, differences were observed across traffic channels and product categories, providing valuable insights into customer behaviour.
-
 The findings highlight opportunities to improve the customer journey, particularly by reducing abandonment between the Add to Cart and Checkout stages, strengthening lower-performing product categories, and leveraging high-performing marketing channels. By implementing these recommendations and continuously monitoring funnel performance, the business can enhance the customer experience, improve conversion rates, and drive sustainable sales growth.
 
 ## Github Link
