@@ -116,6 +116,13 @@ The Bag category records the highest overall checkout conversion rate of 21.76%,
 **Insight:**
 Customer drop-offs increase progressively as users advance through the purchasing funnel. The largest abandonment occurs at the Add to Cart stage, where 52.33% of sessions fail to proceed to checkout. This suggests that the transition from Add to Cart to Checkout is the primary bottleneck in the customer journey and should be prioritized for optimization.
 
+## Dashboard Development
+
+<img width="1048" height="587" alt="image" src="https://github.com/user-attachments/assets/6e6b912b-3ca3-4c24-b44a-549aff74bb92" />
+
+**Analysis:**
+The Power BI dashboard consolidates the key findings from the analysis into an interactive report, enabling stakeholders to monitor funnel performance and customer behaviour in a single view. It highlights the overall conversion funnel, customer drop-off rates, and conversion performance across traffic channels and product categories, providing a clear basis for identifying bottlenecks and supporting data-driven decision-making.
+
 ## Recommendations
 
 1. Optimize the checkout process to reduce the high customer abandonment rate between the Add to Cart and Checkout stages.
